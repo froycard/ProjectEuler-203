@@ -9,8 +9,8 @@ Problem 203
 The binomial coefficients 
  can be arranged in triangular form, Pascal's triangle, like this:
 
-1	
-1		1	
+  1	
+ 1		1	
 1		2		1	
 1		3		3		1	
 1		4		6		4		1	
